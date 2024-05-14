@@ -11,3 +11,5 @@ function calculoImpostoRenda(salarioBruto) {
     }
     return imposto;
 }
+
+module.exports = calculoImpostoRenda;

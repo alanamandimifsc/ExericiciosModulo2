@@ -15,3 +15,5 @@ function calculoInss(salarioBruto) {
 
     return inss;
 }
+
+module.exports = calculoInss;
